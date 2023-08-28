@@ -25,7 +25,7 @@ Before you begin, ensure you have met the following requirements:
 
 To install the project and its dependencies, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-project.git`
+1. Clone the repository: `git clone  https://github.com/Mhmdyasser33/Gulp.js-tutorial`
 2. Navigate to the project directory: `cd your-project`
 3. Install the dependencies: `npm install`
 
