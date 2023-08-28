@@ -1,0 +1,13 @@
+.login{
+   display: flex;
+   border-radius: 10;
+   -webkit-border-radius: 10;
+   -moz-border-radius: 10;
+   -ms-border-radius: 10;
+   -o-border-radius: 10;
+   transition: all 0.4s ease ;
+   -webkit-transition: all 0.4s ease ;
+   -moz-transition: all 0.4s ease ;
+   -ms-transition: all 0.4s ease ;
+   -o-transition: all 0.4s ease ;
+}
