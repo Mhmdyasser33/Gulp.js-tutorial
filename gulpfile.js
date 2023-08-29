@@ -96,6 +96,7 @@ gulp.task("scss" , () =>{
 
 // how to use gulp-pug plugins
 gulp.task("pug" , () =>{
+     require("./server.js")
     return gulp.src("project/*.pug")
     // pretty : true make code did not compression
     .pipe(pug({pretty : true}))
