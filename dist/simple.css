@@ -1,0 +1,32 @@
+@import 'sass/about';
+@import 'sass/header';
+@import './sass/footer';
+.about{
+    background: red($color: #000000);
+     background-position: center ;
+     position: relative;
+     top : 10px ;
+     font-weight:  500;
+     font-style: italic;
+}
+.footer{
+    display: block ;
+    background-color: rebeccapurple;
+    justify-content: center ;
+    align-items: center ;
+    padding: 10px 12px ;
+    text-align: center;
+   margin-top: 20px;
+   font-weight: 200;
+   font-size: 100px;
+
+
+}
+header{
+    display: flex ;
+    justify-content: center ;
+    align-items: center ;
+    height: 100px ;
+    height: 100px;
+    min-width: 100px;
+}
